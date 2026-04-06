@@ -12,7 +12,7 @@
 **A comprehensive data analysis of 16 IPL seasons (2008–2023) covering 988 matches and 2,17,000+ deliveries.**  
 Explores team performance, player stats, toss impact, scoring patterns, and head-to-head records.
 
-[📊 Analysis](#-analysis-covered) • [🚀 Getting Started](#-getting-started) • [📈 Charts](#-charts-generated) • [💡 Key Insights](#-key-insights)
+[📊 Analysis](#-analysis-covered) • [📈 Charts](#-charts--visualizations) • [🚀 Getting Started](#-getting-started) • [💡 Key Insights](#-key-insights)
 
 </div>
 
@@ -42,21 +42,50 @@ The Indian Premier League is one of the most data-rich sporting events in the wo
 
 ---
 
-## 📈 Charts Generated
+## 📈 Charts & Visualizations
 
-All charts are saved in the `charts/` folder and rendered directly in the Jupyter Notebook.
+### 🏆 Most Successful Teams — All Time Win Count
+![Team Wins](charts/01_team_wins.png)
 
-| Chart | Preview |
-|-------|---------|
-| Team Wins | `charts/01_team_wins.png` |
-| Season Match Count | `charts/02_season_matches.png` |
-| Toss Analysis | `charts/03_toss_analysis.png` |
-| Top Players (POTM) | `charts/04_top_players.png` |
-| Top Batsmen | `charts/05_top_batsmen.png` |
-| Top Bowlers | `charts/06_top_bowlers.png` |
-| Runs Per Over | `charts/07_runs_per_over.png` |
-| H2H Heatmap | `charts/08_h2h_heatmap.png` |
-| Boundaries | `charts/09_boundaries.png` |
+---
+
+### 📅 Season-wise Match Count (2008–2023)
+![Season Matches](charts/02_season_matches.png)
+
+---
+
+### 🪙 Toss Impact Analysis
+![Toss Analysis](charts/03_toss_analysis.png)
+
+---
+
+### ⭐ Top 10 Player of the Match Winners
+![Top Players](charts/04_top_players.png)
+
+---
+
+### 🏏 Top 10 Run Scorers in IPL History
+![Top Batsmen](charts/05_top_batsmen.png)
+
+---
+
+### 🎳 Top 10 Wicket Takers in IPL History
+![Top Bowlers](charts/06_top_bowlers.png)
+
+---
+
+### 📈 Average Runs Per Over — Powerplay vs Middle vs Death
+![Runs Per Over](charts/07_runs_per_over.png)
+
+---
+
+### 🔥 Head-to-Head Win Matrix (Top 8 Teams)
+![H2H Heatmap](charts/08_h2h_heatmap.png)
+
+---
+
+### 💥 Boundaries — 4s vs 6s by Team
+![Boundaries](charts/09_boundaries.png)
 
 ---
 
@@ -131,12 +160,11 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 # 5. Launch Jupyter
-jupyter notebook
+jupyter notebook --notebook-dir="."
 ```
 
 ### Run
-
-Open `IPL_Analysis.ipynb` in Jupyter and run all cells — charts will generate automatically in the `charts/` folder.
+Open `IPL_Analysis.ipynb` → `Kernel` → `Restart and Run All Cells`
 
 ---
 
