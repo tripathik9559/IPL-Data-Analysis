@@ -1,0 +1,989 @@
+id,season,city,venue,team1,team2,toss_winner,toss_decision,winner,win_by_runs,win_by_wickets,player_of_match
+1,2008,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Chennai Super Kings,0,2,Ambati Rayudu
+2,2008,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Rajasthan Royals,23,0,Trent Boult
+3,2008,Mumbai,Wankhede Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,field,Mumbai Indians,0,3,Rohit Sharma
+4,2008,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,11,0,Glenn Maxwell
+5,2008,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Chennai Super Kings,0,8,MS Dhoni
+6,2008,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,Chennai Super Kings,0,1,MS Dhoni
+7,2008,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Kolkata Knight Riders,0,5,Pat Cummins
+8,2008,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Punjab Kings,0,2,Chris Gayle
+9,2008,Kolkata,Eden Gardens,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,21,0,Glenn Maxwell
+10,2008,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,13,0,David Warner
+11,2008,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,Sunrisers Hyderabad,0,8,Kane Williamson
+12,2008,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Rajasthan Royals,0,9,Trent Boult
+13,2008,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Delhi Capitals,28,0,Axar Patel
+14,2008,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Mumbai Indians,Punjab Kings,bat,Mumbai Indians,0,2,Hardik Pandya
+15,2008,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajasthan Royals,79,0,Sanju Samson
+16,2008,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,8,0,Jos Buttler
+17,2008,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Mumbai Indians,Mumbai Indians,bat,Punjab Kings,0,4,Nicholas Pooran
+18,2008,Kolkata,Eden Gardens,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,45,0,Mohammed Siraj
+19,2008,Mumbai,Wankhede Stadium,Mumbai Indians,Punjab Kings,Punjab Kings,field,Mumbai Indians,37,0,Jasprit Bumrah
+20,2008,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Chennai Super Kings,0,9,Deepak Chahar
+21,2008,Kolkata,Eden Gardens,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,bat,Punjab Kings,17,0,Mayank Agarwal
+22,2008,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Delhi Capitals,19,0,Rishabh Pant
+23,2008,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Chennai Super Kings,2,0,Ambati Rayudu
+24,2008,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Kolkata Knight Riders,35,0,Andre Russell
+25,2008,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,3,Jonny Bairstow
+26,2008,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Punjab Kings,28,0,KL Rahul
+27,2008,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rajasthan Royals,63,0,Sanju Samson
+28,2008,Mumbai,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,Mumbai Indians,0,8,Kieron Pollard
+29,2008,Kolkata,Eden Gardens,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,9,Mohammed Siraj
+30,2008,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Mumbai Indians,0,7,Jasprit Bumrah
+31,2008,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,Punjab Kings,0,7,KL Rahul
+32,2008,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,0,4,Jos Buttler
+33,2008,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,Delhi Capitals,65,0,Rishabh Pant
+34,2008,Mumbai,Wankhede Stadium,Mumbai Indians,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,15,0,Rishabh Pant
+35,2008,Kolkata,Eden Gardens,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,46,0,Dinesh Karthik
+36,2008,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Delhi Capitals,0,5,Prithvi Shaw
+37,2008,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,7,0,Kane Williamson
+38,2008,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,18,0,Venkatesh Iyer
+39,2008,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Chennai Super Kings,0,6,Ravindra Jadeja
+40,2008,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,0,9,MS Dhoni
+41,2008,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Delhi Capitals,29,0,Rishabh Pant
+42,2008,Kolkata,Eden Gardens,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,bat,Royal Challengers Bangalore,0,9,Glenn Maxwell
+43,2008,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,bat,Punjab Kings,37,0,Chris Gayle
+44,2008,Mumbai,Wankhede Stadium,Mumbai Indians,Punjab Kings,Punjab Kings,bat,Mumbai Indians,0,9,Hardik Pandya
+45,2008,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,Rajasthan Royals,10,0,Trent Boult
+46,2008,Mumbai,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Mumbai Indians,0,6,Suryakumar Yadav
+47,2008,Mumbai,Wankhede Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Mumbai Indians,82,0,Suryakumar Yadav
+48,2008,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,Rajasthan Royals,79,0,Jos Buttler
+49,2008,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Rajasthan Royals,0,3,Ben Stokes
+50,2008,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,Chennai Super Kings,0,5,Faf du Plessis
+51,2008,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders,19,0,Shubman Gill
+52,2008,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,27,0,Deepak Chahar
+53,2008,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Mumbai Indians,5,0,Suryakumar Yadav
+54,2008,Mumbai,Wankhede Stadium,Mumbai Indians,Punjab Kings,Punjab Kings,field,Mumbai Indians,3,0,Suryakumar Yadav
+55,2008,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,Rajasthan Royals,0,7,Sanju Samson
+56,2008,Mumbai,Wankhede Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,field,Mumbai Indians,0,6,Kieron Pollard
+57,2008,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Chennai Super Kings,43,0,Faf du Plessis
+58,2008,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Rajasthan Royals,0,5,Jos Buttler
+59,2008,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,Rajasthan Royals,0,6,Trent Boult
+60,2008,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Punjab Kings,0,5,KL Rahul
+61,2009,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Mumbai Indians,13,0,Jasprit Bumrah
+62,2009,Kolkata,Eden Gardens,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,bat,Mumbai Indians,0,7,Hardik Pandya
+63,2009,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,30,0,Sunil Narine
+64,2009,Mumbai,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Mumbai Indians,0,1,Hardik Pandya
+65,2009,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Rajasthan Royals,2,0,Trent Boult
+66,2009,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Sunrisers Hyderabad,2,0,Kane Williamson
+67,2009,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Punjab Kings,0,4,Mohammed Shami
+68,2009,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,Delhi Capitals,0,9,Prithvi Shaw
+69,2009,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,Chennai Super Kings,40,0,Ravindra Jadeja
+70,2009,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,20,0,Deepak Chahar
+71,2009,Mumbai,Wankhede Stadium,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Mumbai Indians,103,0,Kieron Pollard
+72,2009,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Kolkata Knight Riders,1,0,Pat Cummins
+73,2009,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,0,6,Pat Cummins
+74,2009,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Sunrisers Hyderabad,13,0,Jonny Bairstow
+75,2009,Mumbai,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,Mumbai Indians,38,0,Jasprit Bumrah
+76,2009,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Chennai Super Kings,Punjab Kings,field,Punjab Kings,0,6,Mohammed Shami
+77,2009,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,0,2,Ben Stokes
+78,2009,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Mumbai Indians,Punjab Kings,field,Mumbai Indians,3,0,Rohit Sharma
+79,2009,Mumbai,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Rajasthan Royals,0,3,Trent Boult
+80,2009,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,Kolkata Knight Riders,0,6,Shubman Gill
+81,2009,Kolkata,Eden Gardens,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,36,0,Dinesh Karthik
+82,2009,Mumbai,Wankhede Stadium,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Mumbai Indians,76,0,Rohit Sharma
+83,2009,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Kolkata Knight Riders,0,7,Venkatesh Iyer
+84,2009,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,Sunrisers Hyderabad,0,7,David Warner
+85,2009,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,bat,Sunrisers Hyderabad,0,9,Bhuvneshwar Kumar
+86,2009,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Punjab Kings,20,0,KL Rahul
+87,2009,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,Delhi Capitals,0,1,Prithvi Shaw
+88,2009,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Rajasthan Royals,Rajasthan Royals,bat,Punjab Kings,0,6,Chris Gayle
+89,2009,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Punjab Kings,Punjab Kings,bat,Delhi Capitals,0,7,Axar Patel
+90,2009,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Delhi Capitals,Punjab Kings,field,Punjab Kings,0,1,Mohammed Shami
+91,2009,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Chennai Super Kings,0,6,Ambati Rayudu
+92,2009,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Punjab Kings,35,0,Chris Gayle
+93,2009,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Sunrisers Hyderabad,17,0,Kane Williamson
+94,2009,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Sunrisers Hyderabad,9,0,Kane Williamson
+95,2009,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Kolkata Knight Riders,27,0,Venkatesh Iyer
+96,2009,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Delhi Capitals,0,1,Prithvi Shaw
+97,2009,Kolkata,Eden Gardens,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,43,0,AB de Villiers
+98,2009,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Mumbai Indians,Punjab Kings,field,Punjab Kings,0,3,Chris Gayle
+99,2009,Mumbai,Wankhede Stadium,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Mumbai Indians,0,2,Hardik Pandya
+100,2009,Mumbai,Wankhede Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians,0,7,Kieron Pollard
+101,2009,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Kolkata Knight Riders,28,0,Venkatesh Iyer
+102,2009,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,Rajasthan Royals,54,0,Jos Buttler
+103,2009,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Delhi Capitals,29,0,David Warner
+104,2009,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Punjab Kings,9,0,Mohammed Shami
+105,2009,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Delhi Capitals,0,4,Rishabh Pant
+106,2009,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,Rajasthan Royals,10,0,Jos Buttler
+107,2009,Kolkata,Eden Gardens,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,7,0,Glenn Maxwell
+108,2009,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,Delhi Capitals,0,9,Prithvi Shaw
+109,2009,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,Punjab Kings,24,0,Nicholas Pooran
+110,2009,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Mumbai Indians,0,1,Suryakumar Yadav
+111,2009,Kolkata,Eden Gardens,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,0,2,Pat Cummins
+112,2009,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Punjab Kings,38,0,Mayank Agarwal
+113,2009,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,43,0,Jonny Bairstow
+114,2009,Mumbai,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,0,9,Hardik Pandya
+115,2009,Mumbai,Wankhede Stadium,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Mumbai Indians,4,0,Kieron Pollard
+116,2009,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Sunrisers Hyderabad,94,0,Kane Williamson
+117,2009,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Punjab Kings,Delhi Capitals,field,Delhi Capitals,0,4,Rishabh Pant
+118,2009,Kolkata,Eden Gardens,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,2,Mohammed Siraj
+119,2009,Kolkata,Eden Gardens,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Royal Challengers Bangalore,2,0,Mohammed Siraj
+120,2009,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Punjab Kings,4,0,Nicholas Pooran
+121,2010,Kolkata,Eden Gardens,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,5,Dinesh Karthik
+122,2010,Mumbai,Wankhede Stadium,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Mumbai Indians,82,0,Hardik Pandya
+123,2010,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Punjab Kings,27,0,Mayank Agarwal
+124,2010,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,bat,Kolkata Knight Riders,0,8,Shubman Gill
+125,2010,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Rajasthan Royals,0,6,Trent Boult
+126,2010,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,0,7,Ravindra Jadeja
+127,2010,Kolkata,Eden Gardens,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bangalore,3,0,Virat Kohli
+128,2010,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,0,1,Trent Boult
+129,2010,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,Punjab Kings,bat,Chennai Super Kings,0,2,MS Dhoni
+130,2010,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,5,0,MS Dhoni
+131,2010,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Delhi Capitals,13,0,David Warner
+132,2010,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,Rajasthan Royals,27,0,Trent Boult
+133,2010,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,Rajasthan Royals,0,5,Yuzvendra Chahal
+134,2010,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,Punjab Kings,0,6,Mohammed Shami
+135,2010,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Delhi Capitals,30,0,Axar Patel
+136,2010,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Punjab Kings,Punjab Kings,bat,Rajasthan Royals,0,5,Trent Boult
+137,2010,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Delhi Capitals,8,0,David Warner
+138,2010,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,15,0,Ben Stokes
+139,2010,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,Sunrisers Hyderabad,0,0,Kane Williamson
+140,2010,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Sunrisers Hyderabad,2,0,David Warner
+141,2010,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,6,0,Rashid Khan
+142,2010,Kolkata,Eden Gardens,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,5,AB de Villiers
+143,2010,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Punjab Kings,83,0,Mohammed Shami
+144,2010,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Chennai Super Kings,0,1,Deepak Chahar
+145,2010,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Punjab Kings,Delhi Capitals,field,Delhi Capitals,0,2,Prithvi Shaw
+146,2010,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,0,5,Pat Cummins
+147,2010,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Mumbai Indians,0,2,Rohit Sharma
+148,2010,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Kolkata Knight Riders,0,3,Pat Cummins
+149,2010,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Rajasthan Royals,0,6,Sanju Samson
+150,2010,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,Kolkata Knight Riders,0,9,Shubman Gill
+151,2010,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,Sunrisers Hyderabad,27,0,Rashid Khan
+152,2010,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Sunrisers Hyderabad,0,4,Kane Williamson
+153,2010,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Chennai Super Kings,55,0,Faf du Plessis
+154,2010,Kolkata,Eden Gardens,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,5,Dinesh Karthik
+155,2010,Kolkata,Eden Gardens,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,bat,Mumbai Indians,0,6,Kieron Pollard
+156,2010,Mumbai,Wankhede Stadium,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,0,0,Ambati Rayudu
+157,2010,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Chennai Super Kings,0,2,Ambati Rayudu
+158,2010,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Delhi Capitals,Punjab Kings,bat,Punjab Kings,3,0,Nicholas Pooran
+159,2010,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,Delhi Capitals,20,0,Anrich Nortje
+160,2010,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,0,0,Venkatesh Iyer
+161,2010,Kolkata,Eden Gardens,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,7,Glenn Maxwell
+162,2010,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,Delhi Capitals,0,7,Axar Patel
+163,2010,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,0,2,Deepak Chahar
+164,2010,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,38,0,Rashid Khan
+165,2010,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,53,0,Faf du Plessis
+166,2010,Kolkata,Eden Gardens,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,7,Glenn Maxwell
+167,2010,Mumbai,Wankhede Stadium,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,3,AB de Villiers
+168,2010,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Chennai Super Kings,Punjab Kings,field,Punjab Kings,0,4,Chris Gayle
+169,2010,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Rajasthan Royals,0,6,Ben Stokes
+170,2010,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,Mumbai Indians,0,3,Rohit Sharma
+171,2010,Mumbai,Wankhede Stadium,Mumbai Indians,Punjab Kings,Mumbai Indians,field,Mumbai Indians,0,6,Jasprit Bumrah
+172,2010,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Delhi Capitals,0,1,David Warner
+173,2010,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,5,Mohammed Siraj
+174,2010,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders,0,8,Venkatesh Iyer
+175,2010,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Delhi Capitals,0,5,Axar Patel
+176,2010,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders,0,8,Andre Russell
+177,2010,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Chennai Super Kings,12,0,Ravindra Jadeja
+178,2010,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,Sunrisers Hyderabad,0,6,David Warner
+179,2010,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Rajasthan Royals,33,0,Yuzvendra Chahal
+180,2010,Mumbai,Wankhede Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Mumbai Indians,0,2,Hardik Pandya
+181,2011,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,Kolkata Knight Riders,0,6,Sunil Narine
+182,2011,Kolkata,Eden Gardens,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,20,0,Glenn Maxwell
+183,2011,Kolkata,Eden Gardens,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,30,0,AB de Villiers
+184,2011,Kolkata,Eden Gardens,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Rajasthan Royals,0,8,Trent Boult
+185,2011,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,Sunrisers Hyderabad,0,5,Rashid Khan
+186,2011,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Punjab Kings,Delhi Capitals,field,Delhi Capitals,0,8,Anrich Nortje
+187,2011,Mumbai,Wankhede Stadium,Mumbai Indians,Punjab Kings,Punjab Kings,field,Mumbai Indians,14,0,Kieron Pollard
+188,2011,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Rajasthan Royals,0,8,Trent Boult
+189,2011,Kolkata,Eden Gardens,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,Royal Challengers Bangalore,0,3,Dinesh Karthik
+190,2011,Mumbai,Wankhede Stadium,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Mumbai Indians,11,0,Kieron Pollard
+191,2011,Kolkata,Eden Gardens,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,Royal Challengers Bangalore,7,0,Glenn Maxwell
+192,2011,Mumbai,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Mumbai Indians,0,5,Hardik Pandya
+193,2011,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Sunrisers Hyderabad,17,0,Kane Williamson
+194,2011,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,4,0,Virat Kohli
+195,2011,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Punjab Kings,Punjab Kings,field,Delhi Capitals,82,0,David Warner
+196,2011,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,4,Kane Williamson
+197,2011,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,Sunrisers Hyderabad,0,5,David Warner
+198,2011,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Chennai Super Kings,0,3,Ravindra Jadeja
+199,2011,Kolkata,Eden Gardens,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Rajasthan Royals,11,0,Ben Stokes
+200,2011,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Kolkata Knight Riders,5,0,Sunil Narine
+201,2011,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,16,0,Yuzvendra Chahal
+202,2011,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Punjab Kings,7,0,Mohammed Shami
+203,2011,Kolkata,Eden Gardens,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,39,0,Mohammed Siraj
+204,2011,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,36,0,Kane Williamson
+205,2011,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,Delhi Capitals,0,1,Prithvi Shaw
+206,2011,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,Rajasthan Royals,16,0,Sanju Samson
+207,2011,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Chennai Super Kings,19,0,Faf du Plessis
+208,2011,Kolkata,Eden Gardens,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,Chennai Super Kings,4,0,Ravindra Jadeja
+209,2011,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,Kolkata Knight Riders,0,9,Sunil Narine
+210,2011,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,Rajasthan Royals,0,7,Jos Buttler
+211,2011,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Mumbai Indians,Punjab Kings,field,Punjab Kings,0,4,Nicholas Pooran
+212,2011,Kolkata,Eden Gardens,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,bat,Royal Challengers Bangalore,0,7,Dinesh Karthik
+213,2011,Kolkata,Eden Gardens,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Sunrisers Hyderabad,15,0,Jonny Bairstow
+214,2011,Mumbai,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,Mumbai Indians,0,1,Suryakumar Yadav
+215,2011,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,Rajasthan Royals,6,0,Sanju Samson
+216,2011,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,8,Rashid Khan
+217,2011,Kolkata,Eden Gardens,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,2,0,Mohammed Siraj
+218,2011,Mumbai,Wankhede Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Mumbai Indians,60,0,Rohit Sharma
+219,2011,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,40,0,Kane Williamson
+220,2011,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,Delhi Capitals,0,7,Anrich Nortje
+221,2011,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,15,0,Pat Cummins
+222,2011,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,Sunrisers Hyderabad,0,3,Rashid Khan
+223,2011,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,Delhi Capitals,14,0,Prithvi Shaw
+224,2011,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Delhi Capitals,Delhi Capitals,bat,Punjab Kings,0,1,Mohammed Shami
+225,2011,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,0,7,Rishabh Pant
+226,2011,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Delhi Capitals,0,3,Rishabh Pant
+227,2011,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,Punjab Kings,field,Punjab Kings,0,3,Nicholas Pooran
+228,2011,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Punjab Kings,88,0,Nicholas Pooran
+229,2011,Kolkata,Eden Gardens,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Royal Challengers Bangalore,15,0,AB de Villiers
+230,2011,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Chennai Super Kings,0,5,MS Dhoni
+231,2011,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Delhi Capitals,0,2,Axar Patel
+232,2011,Kolkata,Eden Gardens,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Rajasthan Royals,13,0,Yuzvendra Chahal
+233,2011,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,92,0,Ambati Rayudu
+234,2011,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,Delhi Capitals,19,0,David Warner
+235,2011,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Mumbai Indians,0,6,Rohit Sharma
+236,2011,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,0,9,Pat Cummins
+237,2011,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Punjab Kings,Punjab Kings,bat,Rajasthan Royals,0,8,Yuzvendra Chahal
+238,2011,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,1,0,David Warner
+239,2011,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Chennai Super Kings,0,6,Ravindra Jadeja
+240,2011,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,Rajasthan Royals,5,0,Trent Boult
+241,2012,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,8,0,Ravindra Jadeja
+242,2012,Kolkata,Eden Gardens,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,Royal Challengers Bangalore,0,5,Virat Kohli
+243,2012,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,7,0,Trent Boult
+244,2012,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,8,Bhuvneshwar Kumar
+245,2012,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,13,0,Deepak Chahar
+246,2012,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Chennai Super Kings,Chennai Super Kings,bat,Punjab Kings,0,3,Mohammed Shami
+247,2012,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,8,Bhuvneshwar Kumar
+248,2012,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Chennai Super Kings,0,3,Ravindra Jadeja
+249,2012,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,Sunrisers Hyderabad,0,8,Jonny Bairstow
+250,2012,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,4,0,Dinesh Karthik
+251,2012,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Chennai Super Kings,Punjab Kings,field,Punjab Kings,0,8,Mohammed Shami
+252,2012,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Punjab Kings,Delhi Capitals,bat,Delhi Capitals,48,0,Prithvi Shaw
+253,2012,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,0,9,Trent Boult
+254,2012,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,5,0,Mohammed Siraj
+255,2012,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,Rajasthan Royals,0,9,Ben Stokes
+256,2012,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,22,0,Rashid Khan
+257,2012,Mumbai,Wankhede Stadium,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,Mumbai Indians,59,0,Hardik Pandya
+258,2012,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Chennai Super Kings,Punjab Kings,field,Punjab Kings,0,5,Mohammed Shami
+259,2012,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Sunrisers Hyderabad,68,0,Bhuvneshwar Kumar
+260,2012,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,8,Jonny Bairstow
+261,2012,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Delhi Capitals,23,0,Axar Patel
+262,2012,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,Chennai Super Kings,0,1,Ravindra Jadeja
+263,2012,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Punjab Kings,0,8,Nicholas Pooran
+264,2012,Mumbai,Wankhede Stadium,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,40,0,Hardik Pandya
+265,2012,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Rajasthan Royals,0,5,Ben Stokes
+266,2012,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Chennai Super Kings,Punjab Kings,field,Punjab Kings,0,5,Chris Gayle
+267,2012,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,27,0,Venkatesh Iyer
+268,2012,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,Delhi Capitals,0,1,Prithvi Shaw
+269,2012,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Sunrisers Hyderabad,17,0,Bhuvneshwar Kumar
+270,2012,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Chennai Super Kings,Punjab Kings,field,Chennai Super Kings,8,0,Faf du Plessis
+271,2012,Kolkata,Eden Gardens,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,bat,Mumbai Indians,0,1,Jasprit Bumrah
+272,2012,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,14,0,MS Dhoni
+273,2012,Kolkata,Eden Gardens,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Royal Challengers Bangalore,68,0,Glenn Maxwell
+274,2012,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,20,0,Kane Williamson
+275,2012,Mumbai,Wankhede Stadium,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,11,0,Deepak Chahar
+276,2012,Kolkata,Eden Gardens,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,8,0,Jonny Bairstow
+277,2012,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Chennai Super Kings,23,0,Ambati Rayudu
+278,2012,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,0,3,Faf du Plessis
+279,2012,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,10,0,Bhuvneshwar Kumar
+280,2012,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Kolkata Knight Riders,34,0,Andre Russell
+281,2012,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,Sunrisers Hyderabad,0,1,Kane Williamson
+282,2012,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,Delhi Capitals,0,1,Prithvi Shaw
+283,2012,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Delhi Capitals,0,3,Prithvi Shaw
+284,2012,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Rajasthan Royals,0,4,Trent Boult
+285,2012,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,9,0,Faf du Plessis
+286,2012,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Rajasthan Royals,0,8,Trent Boult
+287,2012,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,Mumbai Indians,0,9,Kieron Pollard
+288,2012,Kolkata,Eden Gardens,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,0,8,Ambati Rayudu
+289,2012,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,Delhi Capitals,bat,Chennai Super Kings,0,8,Deepak Chahar
+290,2012,Mumbai,Wankhede Stadium,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Mumbai Indians,100,0,Hardik Pandya
+291,2012,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,Delhi Capitals,75,0,Rishabh Pant
+292,2012,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,Royal Challengers Bangalore,0,7,Glenn Maxwell
+293,2012,Kolkata,Eden Gardens,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,7,Mohammed Siraj
+294,2012,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Chennai Super Kings,0,9,Deepak Chahar
+295,2012,Kolkata,Eden Gardens,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,104,0,Glenn Maxwell
+296,2012,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Punjab Kings,57,0,Mayank Agarwal
+297,2012,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,Royal Challengers Bangalore,12,0,Virat Kohli
+298,2012,Mumbai,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Mumbai Indians,0,1,Rohit Sharma
+299,2012,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Delhi Capitals,Punjab Kings,bat,Punjab Kings,99,0,Mohammed Shami
+300,2012,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Chennai Super Kings,Punjab Kings,bat,Chennai Super Kings,0,6,Ravindra Jadeja
+301,2013,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,bat,Sunrisers Hyderabad,0,5,Rashid Khan
+302,2013,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,Delhi Capitals,0,7,Prithvi Shaw
+303,2013,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Sunrisers Hyderabad,10,0,Rashid Khan
+304,2013,Kolkata,Eden Gardens,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,bat,Royal Challengers Bangalore,0,8,AB de Villiers
+305,2013,Mumbai,Wankhede Stadium,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Mumbai Indians,14,0,Jasprit Bumrah
+306,2013,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Rajasthan Royals,0,2,Ben Stokes
+307,2013,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Kolkata Knight Riders,19,0,Venkatesh Iyer
+308,2013,Mumbai,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Mumbai Indians,57,0,Hardik Pandya
+309,2013,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,0,8,Sanju Samson
+310,2013,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,Kolkata Knight Riders,0,7,Shubman Gill
+311,2013,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,0,8,Anrich Nortje
+312,2013,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,13,0,Faf du Plessis
+313,2013,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Mumbai Indians,0,7,Kieron Pollard
+314,2013,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,Delhi Capitals,0,9,Anrich Nortje
+315,2013,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,47,0,Bhuvneshwar Kumar
+316,2013,Kolkata,Eden Gardens,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,3,0,MS Dhoni
+317,2013,Mumbai,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Mumbai Indians,106,0,Hardik Pandya
+318,2013,Kolkata,Eden Gardens,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,81,0,Virat Kohli
+319,2013,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,0,1,Rishabh Pant
+320,2013,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Rajasthan Royals,0,7,Trent Boult
+321,2013,Kolkata,Eden Gardens,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,28,0,Dinesh Karthik
+322,2013,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Delhi Capitals,10,0,Rishabh Pant
+323,2013,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,Sunrisers Hyderabad,0,1,David Warner
+324,2013,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,20,0,MS Dhoni
+325,2013,Mumbai,Wankhede Stadium,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,18,0,Suryakumar Yadav
+326,2013,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Delhi Capitals,0,1,Prithvi Shaw
+327,2013,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Chennai Super Kings,0,3,Ravindra Jadeja
+328,2013,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,Rajasthan Royals,0,6,Trent Boult
+329,2013,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Punjab Kings,Rajasthan Royals,bat,Rajasthan Royals,30,0,Sanju Samson
+330,2013,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Chennai Super Kings,3,0,Faf du Plessis
+331,2013,Mumbai,Wankhede Stadium,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Mumbai Indians,43,0,Suryakumar Yadav
+332,2013,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Kolkata Knight Riders,19,0,Shubman Gill
+333,2013,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Kolkata Knight Riders,25,0,Pat Cummins
+334,2013,Kolkata,Eden Gardens,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bangalore,43,0,Virat Kohli
+335,2013,Mumbai,Wankhede Stadium,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Mumbai Indians,38,0,Rohit Sharma
+336,2013,Kolkata,Eden Gardens,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Mumbai Indians,4,0,Kieron Pollard
+337,2013,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Mumbai Indians,0,6,Kieron Pollard
+338,2013,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,Rajasthan Royals,49,0,Trent Boult
+339,2013,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Kolkata Knight Riders,0,5,Shubman Gill
+340,2013,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Chennai Super Kings,Punjab Kings,bat,Punjab Kings,30,0,Mohammed Shami
+341,2013,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,Kolkata Knight Riders,18,0,Sunil Narine
+342,2013,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Delhi Capitals,Punjab Kings,field,Punjab Kings,0,7,KL Rahul
+343,2013,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Sunrisers Hyderabad,24,0,Rashid Khan
+344,2013,Kolkata,Eden Gardens,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,bat,Royal Challengers Bangalore,0,6,Mohammed Siraj
+345,2013,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Delhi Capitals,0,6,Anrich Nortje
+346,2013,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Delhi Capitals,0,8,Rishabh Pant
+347,2013,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,Kolkata Knight Riders,0,5,Sunil Narine
+348,2013,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Kolkata Knight Riders,0,8,Pat Cummins
+349,2013,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Delhi Capitals,Delhi Capitals,bat,Rajasthan Royals,0,2,Trent Boult
+350,2013,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,Rajasthan Royals,10,0,Trent Boult
+351,2013,Mumbai,Wankhede Stadium,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Mumbai Indians,1,0,Rohit Sharma
+352,2013,Mumbai,Wankhede Stadium,Mumbai Indians,Punjab Kings,Punjab Kings,bat,Punjab Kings,20,0,Nicholas Pooran
+353,2013,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Punjab Kings,0,6,Mayank Agarwal
+354,2013,Mumbai,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,0,6,Jasprit Bumrah
+355,2013,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Delhi Capitals,0,2,Anrich Nortje
+356,2013,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,1,David Warner
+357,2013,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,73,0,Jonny Bairstow
+358,2013,Kolkata,Eden Gardens,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,7,AB de Villiers
+359,2013,Kolkata,Eden Gardens,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Royal Challengers Bangalore,1,0,Mohammed Siraj
+360,2013,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Rajasthan Royals,19,0,Sanju Samson
+361,2014,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,Chennai Super Kings,0,5,MS Dhoni
+362,2014,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Punjab Kings,38,0,Nicholas Pooran
+363,2014,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Chennai Super Kings,67,0,Faf du Plessis
+364,2014,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Chennai Super Kings,0,3,MS Dhoni
+365,2014,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,field,Punjab Kings,13,0,Mayank Agarwal
+366,2014,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Rajasthan Royals,0,3,Trent Boult
+367,2014,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,bat,Royal Challengers Bangalore,0,1,Glenn Maxwell
+368,2014,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Chennai Super Kings,Punjab Kings,field,Punjab Kings,0,8,Mohammed Shami
+369,2014,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Rajasthan Royals,26,0,Trent Boult
+370,2014,Mumbai,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Rajasthan Royals,3,0,Jos Buttler
+371,2014,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Delhi Capitals,15,0,Rishabh Pant
+372,2014,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,5,0,Dinesh Karthik
+373,2014,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders,44,0,Pat Cummins
+374,2014,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,Delhi Capitals,0,6,Axar Patel
+375,2014,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,Rajasthan Royals,62,0,Sanju Samson
+376,2014,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,Sunrisers Hyderabad,0,5,Jonny Bairstow
+377,2014,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,Punjab Kings,bat,Chennai Super Kings,0,3,Ravindra Jadeja
+378,2014,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,7,Rashid Khan
+379,2014,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Mumbai Indians,Punjab Kings,field,Mumbai Indians,20,0,Suryakumar Yadav
+380,2014,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,84,0,David Warner
+381,2014,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Punjab Kings,0,4,Mohammed Shami
+382,2014,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,8,Dinesh Karthik
+383,2014,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,Punjab Kings,0,2,KL Rahul
+384,2014,Kolkata,Eden Gardens,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,bat,Royal Challengers Bangalore,0,3,Glenn Maxwell
+385,2014,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,0,7,Rohit Sharma
+386,2014,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Delhi Capitals,0,4,Rishabh Pant
+387,2014,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Mumbai Indians,Punjab Kings,bat,Mumbai Indians,0,1,Rohit Sharma
+388,2014,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,4,David Warner
+389,2014,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Rajasthan Royals,3,0,Ben Stokes
+390,2014,Kolkata,Eden Gardens,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,Kolkata Knight Riders,0,3,Venkatesh Iyer
+391,2014,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,bat,Royal Challengers Bangalore,0,2,AB de Villiers
+392,2014,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Punjab Kings,0,0,Chris Gayle
+393,2014,Kolkata,Eden Gardens,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,Royal Challengers Bangalore,0,5,Virat Kohli
+394,2014,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Kolkata Knight Riders,0,7,Pat Cummins
+395,2014,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,Punjab Kings,bat,Chennai Super Kings,0,3,Faf du Plessis
+396,2014,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Punjab Kings,Punjab Kings,field,Punjab Kings,0,2,Mohammed Shami
+397,2014,Mumbai,Wankhede Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Mumbai Indians,16,0,Rohit Sharma
+398,2014,Mumbai,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,0,7,Yuzvendra Chahal
+399,2014,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Rajasthan Royals,0,4,Trent Boult
+400,2014,Kolkata,Eden Gardens,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Royal Challengers Bangalore,4,0,Virat Kohli
+401,2014,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Delhi Capitals,0,2,Anrich Nortje
+402,2014,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Delhi Capitals,Punjab Kings,field,Punjab Kings,0,1,KL Rahul
+403,2014,Kolkata,Eden Gardens,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,29,0,Dinesh Karthik
+404,2014,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,Delhi Capitals,0,1,Rishabh Pant
+405,2014,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Sunrisers Hyderabad,69,0,Bhuvneshwar Kumar
+406,2014,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,0,3,Shubman Gill
+407,2014,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,Rajasthan Royals,0,1,Sanju Samson
+408,2014,Mumbai,Wankhede Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians,0,1,Jasprit Bumrah
+409,2014,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Rajasthan Royals,0,6,Sanju Samson
+410,2014,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Delhi Capitals,0,7,Rishabh Pant
+411,2014,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,40,0,Ambati Rayudu
+412,2014,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Mumbai Indians,Mumbai Indians,bat,Punjab Kings,0,6,Mohammed Shami
+413,2014,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Rajasthan Royals,Punjab Kings,bat,Punjab Kings,29,0,Mohammed Shami
+414,2014,Mumbai,Wankhede Stadium,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,bat,Mumbai Indians,0,2,Suryakumar Yadav
+415,2014,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Kolkata Knight Riders,0,2,Shubman Gill
+416,2014,Mumbai,Wankhede Stadium,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Mumbai Indians,58,0,Kieron Pollard
+417,2014,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Delhi Capitals,18,0,David Warner
+418,2014,Mumbai,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,Mumbai Indians,14,0,Suryakumar Yadav
+419,2014,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Rajasthan Royals,33,0,Jos Buttler
+420,2014,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,Chennai Super Kings,23,0,Ravindra Jadeja
+421,2015,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,0,8,Sunil Narine
+422,2015,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,Delhi Capitals,0,1,David Warner
+423,2015,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Kolkata Knight Riders,0,9,Pat Cummins
+424,2015,Mumbai,Wankhede Stadium,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Mumbai Indians,70,0,Rohit Sharma
+425,2015,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Punjab Kings,Punjab Kings,bat,Punjab Kings,7,0,KL Rahul
+426,2015,Kolkata,Eden Gardens,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,60,0,AB de Villiers
+427,2015,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Kolkata Knight Riders,17,0,Andre Russell
+428,2015,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,Delhi Capitals,6,0,Anrich Nortje
+429,2015,Kolkata,Eden Gardens,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,14,0,Rohit Sharma
+430,2015,Kolkata,Eden Gardens,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Royal Challengers Bangalore,70,0,Mohammed Siraj
+431,2015,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Rajasthan Royals,0,3,Yuzvendra Chahal
+432,2015,Mumbai,Wankhede Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,field,Mumbai Indians,0,1,Hardik Pandya
+433,2015,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Chennai Super Kings,0,9,Ravindra Jadeja
+434,2015,Mumbai,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,Mumbai Indians,17,0,Suryakumar Yadav
+435,2015,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,7,0,Venkatesh Iyer
+436,2015,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,7,0,Kieron Pollard
+437,2015,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,7,0,Kane Williamson
+438,2015,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Punjab Kings,Delhi Capitals,bat,Punjab Kings,0,3,Chris Gayle
+439,2015,Kolkata,Eden Gardens,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Royal Challengers Bangalore,82,0,Glenn Maxwell
+440,2015,Kolkata,Eden Gardens,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,1,Mohammed Siraj
+441,2015,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Mumbai Indians,0,4,Suryakumar Yadav
+442,2015,Kolkata,Eden Gardens,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,3,Dinesh Karthik
+443,2015,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Chennai Super Kings,0,5,Faf du Plessis
+444,2015,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Chennai Super Kings,13,0,Faf du Plessis
+445,2015,Kolkata,Eden Gardens,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Royal Challengers Bangalore,0,5,Mohammed Siraj
+446,2015,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,Delhi Capitals,26,0,Anrich Nortje
+447,2015,Mumbai,Wankhede Stadium,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,bat,Mumbai Indians,0,3,Hardik Pandya
+448,2015,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,14,0,Kane Williamson
+449,2015,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,0,2,Jos Buttler
+450,2015,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,Royal Challengers Bangalore,0,3,Mohammed Siraj
+451,2015,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajasthan Royals,31,0,Sanju Samson
+452,2015,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Rajasthan Royals,Punjab Kings,bat,Punjab Kings,58,0,KL Rahul
+453,2015,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Delhi Capitals,19,0,Prithvi Shaw
+454,2015,Kolkata,Eden Gardens,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,69,0,Glenn Maxwell
+455,2015,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Punjab Kings,0,1,Mayank Agarwal
+456,2015,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Royal Challengers Bangalore,0,5,Glenn Maxwell
+457,2015,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,Chennai Super Kings,0,3,Deepak Chahar
+458,2015,Mumbai,Wankhede Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Mumbai Indians,0,2,Jasprit Bumrah
+459,2015,Mumbai,Wankhede Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Chennai Super Kings,10,0,MS Dhoni
+460,2015,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,0,9,Sanju Samson
+461,2015,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Rajasthan Royals,34,0,Yuzvendra Chahal
+462,2015,Mumbai,Wankhede Stadium,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Mumbai Indians,15,0,Suryakumar Yadav
+463,2015,Mumbai,Wankhede Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Mumbai Indians,51,0,Kieron Pollard
+464,2015,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Punjab Kings,Rajasthan Royals,bat,Rajasthan Royals,18,0,Trent Boult
+465,2015,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Delhi Capitals,Delhi Capitals,bat,Rajasthan Royals,0,1,Yuzvendra Chahal
+466,2015,Kolkata,Eden Gardens,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,Royal Challengers Bangalore,0,1,AB de Villiers
+467,2015,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,Rajasthan Royals,0,2,Ben Stokes
+468,2015,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,49,0,Ambati Rayudu
+469,2015,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Rajasthan Royals,Punjab Kings,field,Rajasthan Royals,2,0,Jos Buttler
+470,2015,Kolkata,Eden Gardens,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,Delhi Capitals,0,9,Prithvi Shaw
+471,2015,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,31,0,Jonny Bairstow
+472,2015,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Mumbai Indians,Punjab Kings,field,Punjab Kings,0,7,KL Rahul
+473,2015,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,45,0,Bhuvneshwar Kumar
+474,2015,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,Sunrisers Hyderabad,14,0,Rashid Khan
+475,2015,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Rajasthan Royals,0,7,Ben Stokes
+476,2015,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,Punjab Kings,bat,Chennai Super Kings,0,6,Ambati Rayudu
+477,2015,Mumbai,Wankhede Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Delhi Capitals,0,9,Axar Patel
+478,2015,Mumbai,Wankhede Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Mumbai Indians,103,0,Jasprit Bumrah
+479,2015,Mumbai,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,0,8,Suryakumar Yadav
+480,2015,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,Rajasthan Royals,17,0,Yuzvendra Chahal
+481,2016,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Punjab Kings,34,0,Chris Gayle
+482,2016,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Chennai Super Kings,0,4,Ravindra Jadeja
+483,2016,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Kolkata Knight Riders,0,3,Sunil Narine
+484,2016,Mumbai,Wankhede Stadium,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Mumbai Indians,11,0,Suryakumar Yadav
+485,2016,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajasthan Royals,29,0,Yuzvendra Chahal
+486,2016,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,6,0,Bhuvneshwar Kumar
+487,2016,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,Royal Challengers Bangalore,3,0,Glenn Maxwell
+488,2016,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Sunrisers Hyderabad,2,0,Bhuvneshwar Kumar
+489,2016,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders,10,0,Shubman Gill
+490,2016,Kolkata,Eden Gardens,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,7,Mohammed Siraj
+491,2016,Mumbai,Wankhede Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,field,Mumbai Indians,0,8,Kieron Pollard
+492,2016,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,Sunrisers Hyderabad,0,8,David Warner
+493,2016,Kolkata,Eden Gardens,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,18,0,Bhuvneshwar Kumar
+494,2016,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,Punjab Kings,bat,Punjab Kings,6,0,Chris Gayle
+495,2016,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Punjab Kings,Punjab Kings,field,Rajasthan Royals,6,0,Yuzvendra Chahal
+496,2016,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Chennai Super Kings,46,0,Ambati Rayudu
+497,2016,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,56,0,Ravindra Jadeja
+498,2016,Kolkata,Eden Gardens,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Royal Challengers Bangalore,24,0,AB de Villiers
+499,2016,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,30,0,Kane Williamson
+500,2016,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,32,0,Kane Williamson
+501,2016,Kolkata,Eden Gardens,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,7,Dinesh Karthik
+502,2016,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Rajasthan Royals,59,0,Sanju Samson
+503,2016,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,16,0,Kane Williamson
+504,2016,Mumbai,Wankhede Stadium,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Sunrisers Hyderabad,0,3,Bhuvneshwar Kumar
+505,2016,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Chennai Super Kings,0,8,Faf du Plessis
+506,2016,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,7,Kane Williamson
+507,2016,Mumbai,Wankhede Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Chennai Super Kings,0,9,Ambati Rayudu
+508,2016,Kolkata,Eden Gardens,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,Royal Challengers Bangalore,0,1,Dinesh Karthik
+509,2016,Mumbai,Wankhede Stadium,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,9,0,Hardik Pandya
+510,2016,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,Kolkata Knight Riders,19,0,Sunil Narine
+511,2016,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,Kolkata Knight Riders,0,3,Shubman Gill
+512,2016,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Punjab Kings,Rajasthan Royals,bat,Rajasthan Royals,32,0,Sanju Samson
+513,2016,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Chennai Super Kings,Punjab Kings,field,Chennai Super Kings,17,0,Ravindra Jadeja
+514,2016,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Sunrisers Hyderabad,28,0,Jonny Bairstow
+515,2016,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Punjab Kings,40,0,KL Rahul
+516,2016,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,11,0,Rohit Sharma
+517,2016,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Chennai Super Kings,0,2,MS Dhoni
+518,2016,Kolkata,Eden Gardens,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,2,Virat Kohli
+519,2016,Mumbai,Wankhede Stadium,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,Mumbai Indians,7,0,Hardik Pandya
+520,2016,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Delhi Capitals,0,7,Rishabh Pant
+521,2016,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,0,3,Pat Cummins
+522,2016,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,Punjab Kings,0,8,Nicholas Pooran
+523,2016,Kolkata,Eden Gardens,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Royal Challengers Bangalore,85,0,AB de Villiers
+524,2016,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Kolkata Knight Riders,Punjab Kings,field,Punjab Kings,0,6,Chris Gayle
+525,2016,Mumbai,Wankhede Stadium,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Mumbai Indians,0,4,Hardik Pandya
+526,2016,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Punjab Kings,0,9,Mayank Agarwal
+527,2016,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,12,0,Ben Stokes
+528,2016,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Kolkata Knight Riders,0,7,Pat Cummins
+529,2016,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,0,8,Hardik Pandya
+530,2016,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,2,0,Hardik Pandya
+531,2016,Mumbai,Wankhede Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Mumbai Indians,34,0,Kieron Pollard
+532,2016,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders,50,0,Sunil Narine
+533,2016,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Punjab Kings,44,0,KL Rahul
+534,2016,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Chennai Super Kings,8,0,Faf du Plessis
+535,2016,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,Punjab Kings,0,2,Mohammed Shami
+536,2016,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Punjab Kings,Delhi Capitals,bat,Punjab Kings,0,4,Mohammed Shami
+537,2016,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,16,0,Kieron Pollard
+538,2016,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,19,0,Ambati Rayudu
+539,2016,Kolkata,Eden Gardens,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,25,0,Dinesh Karthik
+540,2016,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Delhi Capitals,Punjab Kings,bat,Delhi Capitals,0,7,Rishabh Pant
+541,2017,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,0,7,Prithvi Shaw
+542,2017,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Sunrisers Hyderabad,0,9,Bhuvneshwar Kumar
+543,2017,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,Punjab Kings,0,3,Chris Gayle
+544,2017,Kolkata,Eden Gardens,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,bat,Royal Challengers Bangalore,0,7,Mohammed Siraj
+545,2017,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,Delhi Capitals,0,3,Anrich Nortje
+546,2017,Mumbai,Wankhede Stadium,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,Mumbai Indians,24,0,Suryakumar Yadav
+547,2017,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,Chennai Super Kings,12,0,Ambati Rayudu
+548,2017,Mumbai,Wankhede Stadium,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Mumbai Indians,0,9,Jasprit Bumrah
+549,2017,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Rajasthan Royals,0,9,Ben Stokes
+550,2017,Mumbai,Wankhede Stadium,Mumbai Indians,Punjab Kings,Punjab Kings,bat,Punjab Kings,10,0,Mohammed Shami
+551,2017,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Kolkata Knight Riders,0,3,Pat Cummins
+552,2017,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,Chennai Super Kings,53,0,Deepak Chahar
+553,2017,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Punjab Kings,Punjab Kings,bat,Punjab Kings,7,0,Chris Gayle
+554,2017,Mumbai,Wankhede Stadium,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Mumbai Indians,0,1,Kieron Pollard
+555,2017,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,Delhi Capitals,0,3,Axar Patel
+556,2017,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,field,Chennai Super Kings,0,6,MS Dhoni
+557,2017,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Kolkata Knight Riders,19,0,Sunil Narine
+558,2017,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Delhi Capitals,Punjab Kings,bat,Punjab Kings,51,0,Mohammed Shami
+559,2017,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Sunrisers Hyderabad,0,2,Rashid Khan
+560,2017,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Rajasthan Royals,0,8,Trent Boult
+561,2017,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,14,0,Rohit Sharma
+562,2017,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,Chennai Super Kings,bat,Punjab Kings,0,2,Mohammed Shami
+563,2017,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,bat,Kolkata Knight Riders,0,8,Andre Russell
+564,2017,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,5,0,Bhuvneshwar Kumar
+565,2017,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Chennai Super Kings,0,7,Deepak Chahar
+566,2017,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,Sunrisers Hyderabad,0,1,Jonny Bairstow
+567,2017,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Chennai Super Kings,0,8,Faf du Plessis
+568,2017,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Kolkata Knight Riders,4,0,Sunil Narine
+569,2017,Kolkata,Eden Gardens,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bangalore,73,0,Glenn Maxwell
+570,2017,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,15,0,Jonny Bairstow
+571,2017,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,Delhi Capitals,11,0,Prithvi Shaw
+572,2017,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders,19,0,Venkatesh Iyer
+573,2017,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,Chennai Super Kings,0,8,Ambati Rayudu
+574,2017,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Chennai Super Kings,0,6,Faf du Plessis
+575,2017,Kolkata,Eden Gardens,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,38,0,AB de Villiers
+576,2017,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,4,0,Bhuvneshwar Kumar
+577,2017,Kolkata,Eden Gardens,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Royal Challengers Bangalore,43,0,Virat Kohli
+578,2017,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,Chennai Super Kings,1,0,Ravindra Jadeja
+579,2017,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,Sunrisers Hyderabad,16,0,Rashid Khan
+580,2017,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Chennai Super Kings,0,5,Ravindra Jadeja
+581,2017,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Sunrisers Hyderabad,0,7,Jonny Bairstow
+582,2017,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,0,7,Suryakumar Yadav
+583,2017,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Kolkata Knight Riders,0,7,Andre Russell
+584,2017,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,76,0,Jonny Bairstow
+585,2017,Kolkata,Eden Gardens,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,10,0,AB de Villiers
+586,2017,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,bat,Royal Challengers Bangalore,0,5,Virat Kohli
+587,2017,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,30,0,Rashid Khan
+588,2017,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,Punjab Kings,52,0,KL Rahul
+589,2017,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,Delhi Capitals,0,2,David Warner
+590,2017,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,Delhi Capitals,0,1,Anrich Nortje
+591,2017,Kolkata,Eden Gardens,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,Kolkata Knight Riders,0,3,Sunil Narine
+592,2017,Kolkata,Eden Gardens,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,bat,Royal Challengers Bangalore,0,2,Glenn Maxwell
+593,2017,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,1,Rashid Khan
+594,2017,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Mumbai Indians,0,3,Rohit Sharma
+595,2017,Mumbai,Wankhede Stadium,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,bat,Mumbai Indians,0,2,Suryakumar Yadav
+596,2017,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Kolkata Knight Riders,17,0,Pat Cummins
+597,2017,Kolkata,Eden Gardens,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Rajasthan Royals,15,0,Ben Stokes
+598,2017,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Delhi Capitals,Punjab Kings,bat,Punjab Kings,9,0,Mayank Agarwal
+599,2017,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Chennai Super Kings,0,8,Ravindra Jadeja
+600,2017,Mumbai,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Rajasthan Royals,0,9,Trent Boult
+601,2018,Mumbai,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Mumbai Indians,52,0,Kieron Pollard
+602,2018,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,0,3,Deepak Chahar
+603,2018,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,Kolkata Knight Riders,0,1,Sunil Narine
+604,2018,Mumbai,Wankhede Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Mumbai Indians,32,0,Suryakumar Yadav
+605,2018,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,Royal Challengers Bangalore,0,9,Glenn Maxwell
+606,2018,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Rajasthan Royals,47,0,Jos Buttler
+607,2018,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,14,0,David Warner
+608,2018,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Punjab Kings,8,0,Mayank Agarwal
+609,2018,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Chennai Super Kings,0,9,Ravindra Jadeja
+610,2018,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Punjab Kings,Punjab Kings,bat,Rajasthan Royals,0,3,Sanju Samson
+611,2018,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Delhi Capitals,Delhi Capitals,bat,Punjab Kings,0,2,Chris Gayle
+612,2018,Mumbai,Wankhede Stadium,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Mumbai Indians,5,0,Kieron Pollard
+613,2018,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Delhi Capitals,28,0,Anrich Nortje
+614,2018,Mumbai,Wankhede Stadium,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,18,0,Ambati Rayudu
+615,2018,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Kolkata Knight Riders,26,0,Andre Russell
+616,2018,Kolkata,Eden Gardens,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bangalore,5,0,Mohammed Siraj
+617,2018,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Delhi Capitals,0,6,David Warner
+618,2018,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,Sunrisers Hyderabad,0,1,Rashid Khan
+619,2018,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,Delhi Capitals,0,6,Prithvi Shaw
+620,2018,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings,42,0,Deepak Chahar
+621,2018,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Rajasthan Royals,Punjab Kings,field,Rajasthan Royals,8,0,Yuzvendra Chahal
+622,2018,Mumbai,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Kolkata Knight Riders,6,0,Sunil Narine
+623,2018,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,0,5,Sanju Samson
+624,2018,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Kolkata Knight Riders,0,9,Andre Russell
+625,2018,Kolkata,Eden Gardens,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,0,4,Sunil Narine
+626,2018,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,Punjab Kings,74,0,Chris Gayle
+627,2018,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders,26,0,Sunil Narine
+628,2018,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Chennai Super Kings,0,8,MS Dhoni
+629,2018,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Sunrisers Hyderabad,48,0,Rashid Khan
+630,2018,Kolkata,Eden Gardens,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,0,9,Sanju Samson
+631,2018,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Rajasthan Royals,0,9,Sanju Samson
+632,2018,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,bat,Punjab Kings,70,0,Mohammed Shami
+633,2018,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,5,AB de Villiers
+634,2018,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Punjab Kings,2,0,Mohammed Shami
+635,2018,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Kolkata Knight Riders,17,0,Shubman Gill
+636,2018,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Chennai Super Kings,Punjab Kings,bat,Punjab Kings,89,0,Chris Gayle
+637,2018,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Kolkata Knight Riders,26,0,Sunil Narine
+638,2018,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Rajasthan Royals,Punjab Kings,bat,Rajasthan Royals,0,9,Trent Boult
+639,2018,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Sunrisers Hyderabad,7,0,Jonny Bairstow
+640,2018,Mumbai,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,Mumbai Indians,4,0,Suryakumar Yadav
+641,2018,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Rajasthan Royals,Punjab Kings,field,Punjab Kings,0,6,Chris Gayle
+642,2018,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,Delhi Capitals,0,9,David Warner
+643,2018,Kolkata,Eden Gardens,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,0,2,Yuzvendra Chahal
+644,2018,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Rajasthan Royals,72,0,Jos Buttler
+645,2018,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,Sunrisers Hyderabad,0,6,Kane Williamson
+646,2018,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,Sunrisers Hyderabad,5,0,Rashid Khan
+647,2018,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Delhi Capitals,41,0,Axar Patel
+648,2018,Mumbai,Wankhede Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians,0,3,Jasprit Bumrah
+649,2018,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Mumbai Indians,0,7,Rohit Sharma
+650,2018,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,4,0,Suryakumar Yadav
+651,2018,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Kolkata Knight Riders,74,0,Sunil Narine
+652,2018,Kolkata,Eden Gardens,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,9,Mohammed Siraj
+653,2018,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Punjab Kings,Punjab Kings,bat,Delhi Capitals,0,8,David Warner
+654,2018,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Rajasthan Royals,2,0,Jos Buttler
+655,2018,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings,29,0,Ravindra Jadeja
+656,2018,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Delhi Capitals,18,0,Anrich Nortje
+657,2018,Mumbai,Wankhede Stadium,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Mumbai Indians,47,0,Hardik Pandya
+658,2018,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Punjab Kings,Delhi Capitals,bat,Delhi Capitals,33,0,Axar Patel
+659,2018,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Rajasthan Royals,31,0,Yuzvendra Chahal
+660,2018,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,16,0,Ravindra Jadeja
+661,2019,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,3,AB de Villiers
+662,2019,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,0,1,Suryakumar Yadav
+663,2019,Kolkata,Eden Gardens,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,5,0,Glenn Maxwell
+664,2019,Kolkata,Eden Gardens,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Royal Challengers Bangalore,0,8,Virat Kohli
+665,2019,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,1,Mohammed Siraj
+666,2019,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,Mumbai Indians,0,8,Kieron Pollard
+667,2019,Kolkata,Eden Gardens,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Royal Challengers Bangalore,113,0,Virat Kohli
+668,2019,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,Kolkata Knight Riders,0,2,Pat Cummins
+669,2019,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Kolkata Knight Riders,31,0,Andre Russell
+670,2019,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Chennai Super Kings,12,0,MS Dhoni
+671,2019,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Kolkata Knight Riders,0,2,Shubman Gill
+672,2019,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Punjab Kings,Rajasthan Royals,bat,Punjab Kings,0,2,Chris Gayle
+673,2019,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,Kolkata Knight Riders,0,1,Andre Russell
+674,2019,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,Punjab Kings,0,9,Chris Gayle
+675,2019,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,12,0,Ben Stokes
+676,2019,Kolkata,Eden Gardens,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,9,Glenn Maxwell
+677,2019,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Chennai Super Kings,Punjab Kings,field,Chennai Super Kings,8,0,Faf du Plessis
+678,2019,Kolkata,Eden Gardens,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,8,Glenn Maxwell
+679,2019,Mumbai,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,11,0,Trent Boult
+680,2019,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,field,Kolkata Knight Riders,0,3,Venkatesh Iyer
+681,2019,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Delhi Capitals,18,0,David Warner
+682,2019,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,2,0,MS Dhoni
+683,2019,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Chennai Super Kings,Punjab Kings,bat,Punjab Kings,1,0,Mohammed Shami
+684,2019,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Delhi Capitals,Delhi Capitals,bat,Punjab Kings,0,4,KL Rahul
+685,2019,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Rajasthan Royals,Punjab Kings,field,Punjab Kings,0,7,Nicholas Pooran
+686,2019,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,2,Bhuvneshwar Kumar
+687,2019,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Kolkata Knight Riders,73,0,Venkatesh Iyer
+688,2019,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,Rajasthan Royals,2,0,Jos Buttler
+689,2019,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Rajasthan Royals,0,3,Sanju Samson
+690,2019,Kolkata,Eden Gardens,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Royal Challengers Bangalore,74,0,Dinesh Karthik
+691,2019,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Punjab Kings,23,0,Mohammed Shami
+692,2019,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Punjab Kings,Punjab Kings,bat,Rajasthan Royals,0,9,Yuzvendra Chahal
+693,2019,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Delhi Capitals,60,0,Rishabh Pant
+694,2019,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Punjab Kings,Delhi Capitals,bat,Delhi Capitals,48,0,Prithvi Shaw
+695,2019,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,Kolkata Knight Riders,0,9,Venkatesh Iyer
+696,2019,Kolkata,Eden Gardens,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,6,Glenn Maxwell
+697,2019,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,0,4,Ambati Rayudu
+698,2019,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Chennai Super Kings,1,0,Ambati Rayudu
+699,2019,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,0,0,David Warner
+700,2019,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Mumbai Indians,1,0,Hardik Pandya
+701,2019,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Rajasthan Royals,0,5,Sanju Samson
+702,2019,Mumbai,Wankhede Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Royal Challengers Bangalore,15,0,AB de Villiers
+703,2019,Kolkata,Eden Gardens,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bangalore,30,0,Dinesh Karthik
+704,2019,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,Punjab Kings,field,Chennai Super Kings,10,0,Ravindra Jadeja
+705,2019,Kolkata,Eden Gardens,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,Punjab Kings,12,0,KL Rahul
+706,2019,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Rajasthan Royals,0,8,Jos Buttler
+707,2019,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,Kolkata Knight Riders,0,4,Sunil Narine
+708,2019,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Chennai Super Kings,24,0,MS Dhoni
+709,2019,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Chennai Super Kings,12,0,Ravindra Jadeja
+710,2019,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,3,Jonny Bairstow
+711,2019,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Mumbai Indians,Punjab Kings,bat,Punjab Kings,50,0,Mayank Agarwal
+712,2019,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,71,0,Faf du Plessis
+713,2019,Mumbai,Wankhede Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Mumbai Indians,0,4,Suryakumar Yadav
+714,2019,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,0,7,MS Dhoni
+715,2019,Mumbai,Wankhede Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,Mumbai Indians,21,0,Kieron Pollard
+716,2019,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,6,0,Suryakumar Yadav
+717,2019,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Rajasthan Royals,0,9,Yuzvendra Chahal
+718,2019,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Chennai Super Kings,0,9,Deepak Chahar
+719,2019,Mumbai,Wankhede Stadium,Mumbai Indians,Punjab Kings,Mumbai Indians,field,Punjab Kings,10,0,Mohammed Shami
+720,2019,Kolkata,Eden Gardens,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bangalore,17,0,AB de Villiers
+721,2020,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,Delhi Capitals,0,4,Prithvi Shaw
+722,2020,Kolkata,Eden Gardens,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,bat,Punjab Kings,3,0,Nicholas Pooran
+723,2020,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders,25,0,Venkatesh Iyer
+724,2020,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,76,0,Jonny Bairstow
+725,2020,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders,0,7,Sunil Narine
+726,2020,Kolkata,Eden Gardens,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Sunrisers Hyderabad,17,0,Jonny Bairstow
+727,2020,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,Punjab Kings,bat,Chennai Super Kings,0,7,Deepak Chahar
+728,2020,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,Delhi Capitals,0,3,Axar Patel
+729,2020,Mumbai,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Mumbai Indians,0,6,Rohit Sharma
+730,2020,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,3,0,Rashid Khan
+731,2020,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Sunrisers Hyderabad,53,0,Kane Williamson
+732,2020,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,0,4,Pat Cummins
+733,2020,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,Kolkata Knight Riders,4,0,Venkatesh Iyer
+734,2020,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Punjab Kings,14,0,Mohammed Shami
+735,2020,Mumbai,Wankhede Stadium,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,0,1,David Warner
+736,2020,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Chennai Super Kings,0,1,Deepak Chahar
+737,2020,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,Delhi Capitals,0,5,Prithvi Shaw
+738,2020,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Punjab Kings,82,0,Nicholas Pooran
+739,2020,Kolkata,Eden Gardens,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,bat,Royal Challengers Bangalore,0,9,AB de Villiers
+740,2020,Kolkata,Eden Gardens,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Royal Challengers Bangalore,64,0,AB de Villiers
+741,2020,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Delhi Capitals,Punjab Kings,field,Punjab Kings,0,2,Mayank Agarwal
+742,2020,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,0,3,Kieron Pollard
+743,2020,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Delhi Capitals,Delhi Capitals,bat,Rajasthan Royals,0,3,Trent Boult
+744,2020,Kolkata,Eden Gardens,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,95,0,Mohammed Siraj
+745,2020,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Delhi Capitals,67,0,Rishabh Pant
+746,2020,Kolkata,Eden Gardens,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,Chennai Super Kings,18,0,Deepak Chahar
+747,2020,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Delhi Capitals,Punjab Kings,field,Punjab Kings,0,7,Mohammed Shami
+748,2020,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Mumbai Indians,Punjab Kings,bat,Punjab Kings,45,0,Nicholas Pooran
+749,2020,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Mumbai Indians,0,1,Jasprit Bumrah
+750,2020,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,Royal Challengers Bangalore,0,5,AB de Villiers
+751,2020,Kolkata,Eden Gardens,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,bat,Royal Challengers Bangalore,0,7,Glenn Maxwell
+752,2020,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,13,0,Jos Buttler
+753,2020,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Chennai Super Kings,25,0,Ambati Rayudu
+754,2020,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Sunrisers Hyderabad,0,8,David Warner
+755,2020,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Delhi Capitals,4,0,David Warner
+756,2020,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,field,Sunrisers Hyderabad,50,0,Jonny Bairstow
+757,2020,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Kolkata Knight Riders,0,2,Pat Cummins
+758,2020,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,0,4,Trent Boult
+759,2020,Mumbai,Wankhede Stadium,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad,8,0,David Warner
+760,2020,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,19,0,Glenn Maxwell
+761,2020,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,13,0,Bhuvneshwar Kumar
+762,2020,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,Punjab Kings,52,0,Mohammed Shami
+763,2020,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,17,0,Shubman Gill
+764,2020,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Delhi Capitals,0,2,Prithvi Shaw
+765,2020,Kolkata,Eden Gardens,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,Punjab Kings,10,0,Mayank Agarwal
+766,2020,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Chennai Super Kings,9,0,Faf du Plessis
+767,2020,Mumbai,Wankhede Stadium,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Mumbai Indians,0,5,Hardik Pandya
+768,2020,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,bat,Kolkata Knight Riders,0,2,Sunil Narine
+769,2020,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Delhi Capitals,Punjab Kings,field,Punjab Kings,0,8,Chris Gayle
+770,2020,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,Delhi Capitals,0,4,Axar Patel
+771,2020,Mumbai,Wankhede Stadium,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,Mumbai Indians,0,2,Kieron Pollard
+772,2020,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Kolkata Knight Riders,0,5,Andre Russell
+773,2020,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Kolkata Knight Riders,11,0,Venkatesh Iyer
+774,2020,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,Sunrisers Hyderabad,0,2,Bhuvneshwar Kumar
+775,2020,Mumbai,Wankhede Stadium,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Mumbai Indians,35,0,Kieron Pollard
+776,2020,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,5,David Warner
+777,2020,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,Sunrisers Hyderabad,0,2,David Warner
+778,2020,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,Rajasthan Royals,0,6,Trent Boult
+779,2020,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,Delhi Capitals,9,0,Anrich Nortje
+780,2020,Kolkata,Eden Gardens,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,Royal Challengers Bangalore,0,4,Mohammed Siraj
+781,2021,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Kolkata Knight Riders,37,0,Shubman Gill
+782,2021,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders,12,0,Andre Russell
+783,2021,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,Sunrisers Hyderabad,0,2,Jonny Bairstow
+784,2021,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Punjab Kings,2,0,KL Rahul
+785,2021,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Punjab Kings,Punjab Kings,field,Delhi Capitals,33,0,Axar Patel
+786,2021,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Kolkata Knight Riders,0,7,Sunil Narine
+787,2021,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,10,0,Rishabh Pant
+788,2021,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Punjab Kings,69,0,Mohammed Shami
+789,2021,Kolkata,Eden Gardens,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,bat,Royal Challengers Bangalore,0,8,Glenn Maxwell
+790,2021,Mumbai,Wankhede Stadium,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,Punjab Kings,0,3,Mayank Agarwal
+791,2021,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Delhi Capitals,Delhi Capitals,field,Punjab Kings,15,0,Mohammed Shami
+792,2021,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,0,6,Deepak Chahar
+793,2021,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Chennai Super Kings,0,6,MS Dhoni
+794,2021,Mumbai,Wankhede Stadium,Mumbai Indians,Punjab Kings,Punjab Kings,bat,Mumbai Indians,0,7,Jasprit Bumrah
+795,2021,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Rajasthan Royals,13,0,Yuzvendra Chahal
+796,2021,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,Kolkata Knight Riders,0,6,Pat Cummins
+797,2021,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Rajasthan Royals,0,3,Sanju Samson
+798,2021,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Punjab Kings,0,7,Mohammed Shami
+799,2021,Kolkata,Eden Gardens,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Royal Challengers Bangalore,14,0,AB de Villiers
+800,2021,Kolkata,Eden Gardens,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,7,Glenn Maxwell
+801,2021,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,8,Jonny Bairstow
+802,2021,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,Punjab Kings,field,Chennai Super Kings,66,0,Ambati Rayudu
+803,2021,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,Punjab Kings,bat,Chennai Super Kings,0,5,Ambati Rayudu
+804,2021,Mumbai,Wankhede Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Mumbai Indians,0,6,Kieron Pollard
+805,2021,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rajasthan Royals,29,0,Trent Boult
+806,2021,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Delhi Capitals,0,1,David Warner
+807,2021,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,Delhi Capitals,0,2,David Warner
+808,2021,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,Delhi Capitals,0,3,Rishabh Pant
+809,2021,Kolkata,Eden Gardens,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Royal Challengers Bangalore,69,0,Glenn Maxwell
+810,2021,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders,43,0,Sunil Narine
+811,2021,Kolkata,Eden Gardens,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,Royal Challengers Bangalore,10,0,AB de Villiers
+812,2021,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,Sunrisers Hyderabad,0,5,David Warner
+813,2021,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Chennai Super Kings,0,9,Deepak Chahar
+814,2021,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,Kolkata Knight Riders,25,0,Venkatesh Iyer
+815,2021,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,Rajasthan Royals,18,0,Trent Boult
+816,2021,Mumbai,Wankhede Stadium,Mumbai Indians,Punjab Kings,Punjab Kings,field,Mumbai Indians,5,0,Suryakumar Yadav
+817,2021,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Sunrisers Hyderabad,0,4,Rashid Khan
+818,2021,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,20,0,Rishabh Pant
+819,2021,Mumbai,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Mumbai Indians,50,0,Kieron Pollard
+820,2021,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,4,Bhuvneshwar Kumar
+821,2021,Mumbai,Wankhede Stadium,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,Mumbai Indians,2,0,Jasprit Bumrah
+822,2021,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Chennai Super Kings,86,0,Deepak Chahar
+823,2021,Kolkata,Eden Gardens,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Mumbai Indians,12,0,Rohit Sharma
+824,2021,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Punjab Kings,32,0,KL Rahul
+825,2021,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,Delhi Capitals,0,5,Prithvi Shaw
+826,2021,Kolkata,Eden Gardens,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,field,Kolkata Knight Riders,4,0,Pat Cummins
+827,2021,Kolkata,Eden Gardens,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,6,0,Rashid Khan
+828,2021,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Kolkata Knight Riders,0,2,Andre Russell
+829,2021,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,0,1,Rishabh Pant
+830,2021,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Royal Challengers Bangalore,13,0,Virat Kohli
+831,2021,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Punjab Kings,101,0,Nicholas Pooran
+832,2021,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,0,6,Suryakumar Yadav
+833,2021,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,Kolkata Knight Riders,0,8,Andre Russell
+834,2021,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Delhi Capitals,75,0,Anrich Nortje
+835,2021,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Kolkata Knight Riders,0,2,Pat Cummins
+836,2021,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,Punjab Kings,2,0,KL Rahul
+837,2021,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,Kolkata Knight Riders,0,8,Venkatesh Iyer
+838,2021,Mumbai,Wankhede Stadium,Mumbai Indians,Punjab Kings,Punjab Kings,bat,Mumbai Indians,0,4,Rohit Sharma
+839,2021,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,Punjab Kings,17,0,Mayank Agarwal
+840,2021,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Punjab Kings,0,1,Mayank Agarwal
+841,2022,Kolkata,Eden Gardens,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians,10,0,Jasprit Bumrah
+842,2022,Lucknow,Ekana Cricket Stadium,Gujarat Titans,Chennai Super Kings,Gujarat Titans,bat,Chennai Super Kings,0,4,MS Dhoni
+843,2022,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,6,Kane Williamson
+844,2022,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Kolkata Knight Riders,0,7,Sunil Narine
+845,2022,Kolkata,Eden Gardens,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,Sunrisers Hyderabad,18,0,Jonny Bairstow
+846,2022,Mumbai,Wankhede Stadium,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Mumbai Indians,0,2,Hardik Pandya
+847,2022,Mumbai,Wankhede Stadium,Mumbai Indians,Gujarat Titans,Mumbai Indians,bat,Mumbai Indians,17,0,Kieron Pollard
+848,2022,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,Delhi Capitals,0,8,David Warner
+849,2022,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,Rajasthan Royals,63,0,Yuzvendra Chahal
+850,2022,Lucknow,Ekana Cricket Stadium,Gujarat Titans,Chennai Super Kings,Chennai Super Kings,field,Gujarat Titans,63,0,David Miller
+851,2022,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Gujarat Titans,Kolkata Knight Riders,bat,Kolkata Knight Riders,43,0,Venkatesh Iyer
+852,2022,Ahmedabad,Narendra Modi Stadium,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders,bat,Lucknow Super Giants,0,3,KL Rahul
+853,2022,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Gujarat Titans,Punjab Kings,bat,Punjab Kings,90,0,KL Rahul
+854,2022,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,2,David Warner
+855,2022,Mumbai,Wankhede Stadium,Mumbai Indians,Lucknow Super Giants,Mumbai Indians,bat,Mumbai Indians,103,0,Hardik Pandya
+856,2022,Ahmedabad,Narendra Modi Stadium,Lucknow Super Giants,Chennai Super Kings,Lucknow Super Giants,bat,Lucknow Super Giants,46,0,Avesh Khan
+857,2022,Lucknow,Ekana Cricket Stadium,Gujarat Titans,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Gujarat Titans,0,2,Shubman Gill
+858,2022,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,52,0,Kane Williamson
+859,2022,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Rajasthan Royals,0,3,Yuzvendra Chahal
+860,2022,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Kolkata Knight Riders,0,6,Sunil Narine
+861,2022,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,bat,Delhi Capitals,0,2,Axar Patel
+862,2022,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Gujarat Titans,Gujarat Titans,bat,Punjab Kings,0,3,Chris Gayle
+863,2022,Lucknow,Ekana Cricket Stadium,Gujarat Titans,Royal Challengers Bangalore,Gujarat Titans,bat,Royal Challengers Bangalore,0,8,AB de Villiers
+864,2022,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Delhi Capitals,Punjab Kings,field,Delhi Capitals,7,0,Axar Patel
+865,2022,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Kolkata Knight Riders,0,1,Pat Cummins
+866,2022,Mumbai,Wankhede Stadium,Mumbai Indians,Punjab Kings,Mumbai Indians,field,Mumbai Indians,0,8,Rohit Sharma
+867,2022,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,Punjab Kings,5,0,Mohammed Shami
+868,2022,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,8,Virat Kohli
+869,2022,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Delhi Capitals,0,3,Anrich Nortje
+870,2022,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,17,0,Jonny Bairstow
+871,2022,Mumbai,Wankhede Stadium,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Mumbai Indians,21,0,Kieron Pollard
+872,2022,Lucknow,Ekana Cricket Stadium,Gujarat Titans,Kolkata Knight Riders,Gujarat Titans,field,Kolkata Knight Riders,15,0,Andre Russell
+873,2022,Ahmedabad,Narendra Modi Stadium,Lucknow Super Giants,Sunrisers Hyderabad,Lucknow Super Giants,bat,Lucknow Super Giants,13,0,Ravi Bishnoi
+874,2022,Lucknow,Ekana Cricket Stadium,Gujarat Titans,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,0,9,Rohit Sharma
+875,2022,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Kolkata Knight Riders,0,4,Venkatesh Iyer
+876,2022,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,1,Bhuvneshwar Kumar
+877,2022,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Chennai Super Kings,8,0,Ambati Rayudu
+878,2022,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,Punjab Kings,field,Chennai Super Kings,42,0,MS Dhoni
+879,2022,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders,38,0,Shubman Gill
+880,2022,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,field,Gujarat Titans,20,0,Shubman Gill
+881,2022,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,bat,Royal Challengers Bangalore,0,8,AB de Villiers
+882,2022,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,Sunrisers Hyderabad,0,4,David Warner
+883,2022,Ahmedabad,Narendra Modi Stadium,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Lucknow Super Giants,11,0,Marcus Stoinis
+884,2022,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Lucknow Super Giants,Lucknow Super Giants,field,Punjab Kings,32,0,Chris Gayle
+885,2022,Kolkata,Eden Gardens,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,Royal Challengers Bangalore,0,6,AB de Villiers
+886,2022,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Punjab Kings,Delhi Capitals,bat,Delhi Capitals,33,0,Prithvi Shaw
+887,2022,Kolkata,Eden Gardens,Royal Challengers Bangalore,Gujarat Titans,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,33,0,Virat Kohli
+888,2022,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,34,0,Kane Williamson
+889,2022,Ahmedabad,Narendra Modi Stadium,Lucknow Super Giants,Mumbai Indians,Mumbai Indians,field,Lucknow Super Giants,5,0,Ravi Bishnoi
+890,2022,Ahmedabad,Narendra Modi Stadium,Lucknow Super Giants,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,12,0,Mohammed Siraj
+891,2022,Kolkata,Eden Gardens,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,bat,Punjab Kings,13,0,Nicholas Pooran
+892,2022,Ahmedabad,Narendra Modi Stadium,Lucknow Super Giants,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Lucknow Super Giants,29,0,Avesh Khan
+893,2022,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,Punjab Kings,0,5,KL Rahul
+894,2022,Mumbai,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Mumbai Indians,0,4,Rohit Sharma
+895,2022,Lucknow,Ekana Cricket Stadium,Gujarat Titans,Lucknow Super Giants,Gujarat Titans,field,Gujarat Titans,0,8,David Miller
+896,2022,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,bat,Chennai Super Kings,0,6,MS Dhoni
+897,2022,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rajasthan Royals,12,0,Sanju Samson
+898,2022,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,8,Kane Williamson
+899,2022,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Punjab Kings,Punjab Kings,bat,Rajasthan Royals,0,2,Jos Buttler
+900,2022,Kolkata,Eden Gardens,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Royal Challengers Bangalore,35,0,Virat Kohli
+901,2022,Lucknow,Ekana Cricket Stadium,Gujarat Titans,Rajasthan Royals,Gujarat Titans,bat,Rajasthan Royals,0,3,Yuzvendra Chahal
+902,2022,Ahmedabad,Narendra Modi Stadium,Lucknow Super Giants,Punjab Kings,Lucknow Super Giants,bat,Punjab Kings,0,9,Chris Gayle
+903,2022,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Punjab Kings,2,0,Mohammed Shami
+904,2022,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Kolkata Knight Riders,5,0,Pat Cummins
+905,2022,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals,16,0,Axar Patel
+906,2022,Mumbai,Wankhede Stadium,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings,0,8,Ambati Rayudu
+907,2022,Lucknow,Ekana Cricket Stadium,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,0,9,Ben Stokes
+908,2022,Lucknow,Ekana Cricket Stadium,Gujarat Titans,Mumbai Indians,Mumbai Indians,bat,Gujarat Titans,0,8,Mohammed Shami
+909,2022,Kolkata,Eden Gardens,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,Sunrisers Hyderabad,0,1,Bhuvneshwar Kumar
+910,2022,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Gujarat Titans,Delhi Capitals,bat,Delhi Capitals,62,0,Rishabh Pant
+911,2022,Lucknow,Ekana Cricket Stadium,Gujarat Titans,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Gujarat Titans,38,0,Mohammed Shami
+912,2022,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,bat,Sunrisers Hyderabad,0,6,Bhuvneshwar Kumar
+913,2022,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Rajasthan Royals,Rajasthan Royals,bat,Punjab Kings,0,4,Nicholas Pooran
+914,2022,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Lucknow Super Giants,Kolkata Knight Riders,field,Kolkata Knight Riders,0,1,Sunil Narine
+915,2023,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,3,Bhuvneshwar Kumar
+916,2023,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Mumbai Indians,0,5,Jasprit Bumrah
+917,2023,Kolkata,Eden Gardens,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,50,0,Virat Kohli
+918,2023,Mumbai,Wankhede Stadium,Mumbai Indians,Punjab Kings,Punjab Kings,bat,Mumbai Indians,0,1,Kieron Pollard
+919,2023,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings,1,0,MS Dhoni
+920,2023,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Gujarat Titans,Chennai Super Kings,bat,Gujarat Titans,0,2,Hardik Pandya
+921,2023,Kolkata,Eden Gardens,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,field,Delhi Capitals,0,2,David Warner
+922,2023,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings,25,0,Ambati Rayudu
+923,2023,Mumbai,Wankhede Stadium,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Chennai Super Kings,19,0,Ravindra Jadeja
+924,2023,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Chennai Super Kings,Punjab Kings,field,Punjab Kings,0,4,Nicholas Pooran
+925,2023,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Rajasthan Royals,0,8,Jos Buttler
+926,2023,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Delhi Capitals,0,5,Anrich Nortje
+927,2023,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Delhi Capitals,Delhi Capitals,bat,Punjab Kings,0,4,Mohammed Shami
+928,2023,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,Punjab Kings,bat,Punjab Kings,20,0,KL Rahul
+929,2023,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Punjab Kings,Rajasthan Royals,bat,Rajasthan Royals,3,0,Yuzvendra Chahal
+930,2023,Lucknow,Ekana Cricket Stadium,Gujarat Titans,Chennai Super Kings,Gujarat Titans,bat,Gujarat Titans,31,0,Mohammed Shami
+931,2023,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,Kolkata Knight Riders,9,0,Pat Cummins
+932,2023,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Gujarat Titans,Gujarat Titans,field,Gujarat Titans,0,9,Rashid Khan
+933,2023,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Delhi Capitals,0,4,Anrich Nortje
+934,2023,Kolkata,Eden Gardens,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,99,0,Mohammed Siraj
+935,2023,Mumbai,Wankhede Stadium,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Mumbai Indians,10,0,Kieron Pollard
+936,2023,Lucknow,Ekana Cricket Stadium,Gujarat Titans,Chennai Super Kings,Gujarat Titans,field,Chennai Super Kings,8,0,Ravindra Jadeja
+937,2023,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Punjab Kings,Punjab Kings,field,Delhi Capitals,36,0,David Warner
+938,2023,Ahmedabad,Narendra Modi Stadium,Lucknow Super Giants,Mumbai Indians,Lucknow Super Giants,field,Lucknow Super Giants,0,7,Marcus Stoinis
+939,2023,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Gujarat Titans,Punjab Kings,bat,Gujarat Titans,0,8,Shubman Gill
+940,2023,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rajasthan Royals,58,0,Trent Boult
+941,2023,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Lucknow Super Giants,Lucknow Super Giants,field,Punjab Kings,61,0,Nicholas Pooran
+942,2023,Mumbai,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Mumbai Indians,37,0,Kieron Pollard
+943,2023,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,Sunrisers Hyderabad,0,6,Bhuvneshwar Kumar
+944,2023,Lucknow,Ekana Cricket Stadium,Gujarat Titans,Mumbai Indians,Mumbai Indians,field,Mumbai Indians,0,7,Suryakumar Yadav
+945,2023,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,Mumbai Indians,0,2,Kieron Pollard
+946,2023,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Chennai Super Kings,0,1,Faf du Plessis
+947,2023,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals,0,7,Ben Stokes
+948,2023,Lucknow,Ekana Cricket Stadium,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals,12,0,Sanju Samson
+949,2023,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,7,Bhuvneshwar Kumar
+950,2023,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders,13,0,Andre Russell
+951,2023,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Rajasthan Royals,Delhi Capitals,bat,Rajasthan Royals,0,6,Trent Boult
+952,2023,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Delhi Capitals,14,0,Rishabh Pant
+953,2023,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Lucknow Super Giants,Lucknow Super Giants,field,Delhi Capitals,25,0,Prithvi Shaw
+954,2023,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Kolkata Knight Riders,24,0,Pat Cummins
+955,2023,Ahmedabad,Narendra Modi Stadium,Lucknow Super Giants,Royal Challengers Bangalore,Lucknow Super Giants,bat,Lucknow Super Giants,20,0,Quinton de Kock
+956,2023,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Delhi Capitals,Delhi Capitals,bat,Punjab Kings,0,3,Mohammed Shami
+957,2023,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kolkata Knight Riders,22,0,Andre Russell
+958,2023,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Kolkata Knight Riders,72,0,Shubman Gill
+959,2023,Lucknow,Ekana Cricket Stadium,Gujarat Titans,Kolkata Knight Riders,Kolkata Knight Riders,bat,Gujarat Titans,0,4,Hardik Pandya
+960,2023,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Punjab Kings,Punjab Kings,field,Punjab Kings,0,3,Mayank Agarwal
+961,2023,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,Delhi Capitals,0,1,Axar Patel
+962,2023,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Mumbai Indians,Punjab Kings,bat,Punjab Kings,12,0,KL Rahul
+963,2023,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Rajasthan Royals,0,9,Sanju Samson
+964,2023,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Lucknow Super Giants,Lucknow Super Giants,field,Chennai Super Kings,6,0,Ambati Rayudu
+965,2023,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Chennai Super Kings,53,0,Deepak Chahar
+966,2023,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Kolkata Knight Riders,20,0,Pat Cummins
+967,2023,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,field,Rajasthan Royals,0,9,Ben Stokes
+968,2023,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Rajasthan Royals,0,6,Yuzvendra Chahal
+969,2023,Bangalore,Chinnaswamy Stadium,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Mumbai Indians,0,9,Suryakumar Yadav
+970,2023,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Delhi Capitals,Delhi Capitals,bat,Rajasthan Royals,0,1,Yuzvendra Chahal
+971,2023,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Delhi Capitals,Delhi Capitals,bat,Rajasthan Royals,0,3,Jos Buttler
+972,2023,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Punjab Kings,0,7,Mohammed Shami
+973,2023,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,66,0,Jonny Bairstow
+974,2023,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad,0,3,David Warner
+975,2023,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,field,Royal Challengers Bangalore,5,0,Glenn Maxwell
+976,2023,Hyderabad,Rajiv Gandhi Stadium,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,8,0,Kane Williamson
+977,2023,Lucknow,Ekana Cricket Stadium,Gujarat Titans,Rajasthan Royals,Rajasthan Royals,field,Gujarat Titans,54,0,Mohammed Shami
+978,2023,Kolkata,Eden Gardens,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad,6,0,Bhuvneshwar Kumar
+979,2023,Kolkata,Eden Gardens,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,bat,Royal Challengers Bangalore,0,4,Dinesh Karthik
+980,2023,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Punjab Kings,10,0,Mayank Agarwal
+981,2023,Mumbai,Wankhede Stadium,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Mumbai Indians,24,0,Suryakumar Yadav
+982,2023,Kolkata,Eden Gardens,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,Chennai Super Kings,8,0,Deepak Chahar
+983,2023,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Chennai Super Kings,52,0,Faf du Plessis
+984,2023,Chandigarh,Punjab Cricket Association Stadium,Punjab Kings,Rajasthan Royals,Punjab Kings,field,Punjab Kings,0,4,Chris Gayle
+985,2023,Jaipur,Sawai Mansingh Stadium,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,5,0,Glenn Maxwell
+986,2023,Delhi,Arun Jaitley Stadium,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Punjab Kings,3,0,Mohammed Shami
+987,2023,Chennai,MA Chidambaram Stadium,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Chennai Super Kings,0,7,Deepak Chahar
+988,2023,Lucknow,Ekana Cricket Stadium,Gujarat Titans,Delhi Capitals,Gujarat Titans,bat,Gujarat Titans,74,0,Hardik Pandya
